@@ -245,3 +245,16 @@ Origin tracking
 
 .. autoclass:: Origin
    :members:
+
+Conditional logit (discrete choice)
+-----------------------------------
+
+.. autofunction:: conditional_logit
+
+.. autofunction:: predict_conditional_logit
+
+.. autoclass:: ConditionalLogitResult
+   :members:
+
+.. autoclass:: ConditionalLogitPrediction
+   :members:
